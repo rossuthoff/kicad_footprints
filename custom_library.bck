@@ -1,0 +1,90 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.3V
+D +3.3V signal
+$ENDCMP
+#
+$CMP +3.3V_1
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_2
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_3
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_4
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_5
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_6
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3_4
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3_5
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3_6
+K POWER, PWR
+$ENDCMP
+#
+$CMP AD5171
+D Digital Potentiometer, 64 position, OTP, Analog Devices, SOT-23-8
+$ENDCMP
+#
+$CMP AD5247
+D Digital potentiometer, 128-pos, I2C, analog devices
+$ENDCMP
+#
+$CMP LED_wThermal
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP LT3478-1
+D Linear Tech 4.5A monolithic LED driver
+K LED driver regulator PWM
+$ENDCMP
+#
+$CMP Si2318DS-T1
+D Vishay Power Mosfet, N-Channel 40V
+K NMOS n-mos n-mosfet transistor mosfet
+$ENDCMP
+#
+$CMP V_1
+K POWER, PWR
+$ENDCMP
+#
+$CMP V_2
+K POWER, PWR
+$ENDCMP
+#
+$CMP V_3
+K POWER, PWR
+$ENDCMP
+#
+$CMP V_4
+K POWER, PWR
+$ENDCMP
+#
+$CMP V_5
+K POWER, PWR
+$ENDCMP
+#
+$CMP V_6
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
